@@ -45,7 +45,7 @@
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
       "cep": "00000-000",
-      "cidade_id": 1,
+      "cidade": "Juiz de Fora",
       "UF_id": 1,
       "pais_id": 1
     },
@@ -56,7 +56,7 @@
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
       "cep": "00000-000",
-      "cidade_id": 2,
+      "cidade": "Rio de Janeiro",
       "UF_id": 2,
       "pais_id": 1
     },
@@ -67,7 +67,7 @@
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
       "cep": "00000-000",
-      "cidade_id": 3,
+      "cidade": "João Pessoa",
       "UF_id": 3,
       "pais_id": 1
     },
@@ -78,7 +78,7 @@
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
       "cep": "00000-000",
-      "cidade_id": 4,
+      "cidade": "Buenos Aires",
       "UF_id": 4,
       "pais_id": 2
     }
