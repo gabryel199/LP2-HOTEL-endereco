@@ -40,7 +40,7 @@
   "endereco": [
     {
       "id": 1,
-      "numero": "1005",
+      "numero": 1005,
       "complemento": "204",
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
@@ -50,7 +50,7 @@
     },
     {
       "id": 2,
-      "numero": "2222",
+      "numero": 2222,
       "complemento": "204",
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
@@ -60,7 +60,7 @@
     },
     {
       "id": 3,
-      "numero": "333",
+      "numero": 333,
       "complemento": "204",
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
@@ -70,7 +70,7 @@
     },
     {
       "id": 4,
-      "numero": "111",
+      "numero": 111,
       "complemento": "204",
       "logradouro": "Rua fulano de tal",
       "bairro": "aeaet",
