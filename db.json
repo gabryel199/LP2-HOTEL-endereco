@@ -13,7 +13,7 @@
       "id": 2,
       "nome": "cliente 01-02",
       "cpf": "14578956832",
-      "dataNacimento": "1999-08-11",,
+      "dataNacimento": "1999-08-11",
       "email": "cliente01-02@gmail.com",
       "senha": "xxxxxxxx",
       "endereco_id": 2
