@@ -46,8 +46,7 @@
       "bairro": "aeaet",
       "cep": "00000-000",
       "cidade": "Juiz de Fora",
-      "UF_id": 1,
-      "pais_id": 1
+      "UF_id": 1
     },
     {
       "id": 2,
@@ -57,8 +56,7 @@
       "bairro": "aeaet",
       "cep": "00000-000",
       "cidade": "Rio de Janeiro",
-      "UF_id": 2,
-      "pais_id": 1
+      "UF_id": 2
     },
     {
       "id": 3,
@@ -68,8 +66,7 @@
       "bairro": "aeaet",
       "cep": "00000-000",
       "cidade": "João Pessoa",
-      "UF_id": 3,
-      "pais_id": 1
+      "UF_id": 3
     },
     {
       "id": 4,
@@ -79,8 +76,7 @@
       "bairro": "aeaet",
       "cep": "00000-000",
       "cidade": "Buenos Aires",
-      "UF_id": 4,
-      "pais_id": 2
+      "UF_id": 4
     }
   ],
   "uf": [
