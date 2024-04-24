@@ -1,5 +1,5 @@
 {
-  "cliente": [
+  "clientes": [
     {
       "id": 1,
       "nome": "cliente 01-01",
@@ -91,7 +91,7 @@
       "pais_id": 2
     }
   ],
-  "endereco": [
+  "enderecos": [
     {
       "id": 1,
       "numero": 1005,
@@ -133,7 +133,7 @@
       "UF_id": 4
     }
   ],
-  "uf": [
+  "ufs": [
     {
       "id": 1,
       "titulo": "Minas Gerais",
@@ -155,7 +155,7 @@
       "pais_id": 2
     }
   ],
-  "pais": [
+  "paises": [
     {
       "id": 1,
       "titulo": "Brasil"
